@@ -1,0 +1,961 @@
+.youMayAlso {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 36px;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 1300px;
+}
+.divcoinMayLikeTitle {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bnbpngIcon {
+  width: 26px;
+  height: 26px;
+  position: relative;
+  border-radius: var(--br-smi);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.imgmargin {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-6xs) var(--padding-0) var(--padding-0);
+}
+.bnb {
+  position: relative;
+}
+.spanh2dBaaa528e {
+  padding: var(--padding-12xs) var(--padding-0) var(--padding-0);
+}
+.divcoinTitle,
+.spanh2dBaaa528e {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.topMarginDiv {
+  position: relative;
+}
+.spanh2d2af321bc {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divcoinTop,
+.divincrease {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divincrease {
+  border-radius: var(--br-11xs);
+  background-color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-niagara-6
+  );
+  justify-content: center;
+  padding: 2.75px var(--padding-10xs) 2.25px var(--padding-9xs);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-shamrock
+  );
+}
+.divcoinTop {
+  width: 116px;
+  justify-content: space-between;
+  padding: var(--padding-0) 0.000003814697265625px var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: var(--gap-0);
+  row-gap: 20px;
+}
+.divcoinTopmargin {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-xs);
+}
+.imgMargin {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.divcoinPrice {
+  font-size: var(--font-size-xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-cod-gray
+  );
+}
+.divcoinContent,
+.divcoinPrice {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svgIcon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.svg,
+.svgFill {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+}
+.svgFill {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-11xl);
+}
+.svg {
+  width: 200px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divitemWrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) var(--padding-9xs);
+}
+.divchartItem,
+.divchartItemmargin,
+.divitemWrapper,
+.link {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link {
+  flex: 1;
+  flex-direction: row;
+}
+.divchartItem,
+.divchartItemmargin {
+  flex-direction: column;
+}
+.divchartItem {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  border: 1px solid
+    var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mercury
+    );
+  padding: var(--padding-mid) var(--padding-lg) var(--padding-mid)
+    var(--padding-base);
+}
+.divchartItemmargin {
+  width: 262px;
+  flex-shrink: 0;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.solanaSoljpegIcon {
+  width: 26px;
+  height: 26px;
+  position: relative;
+  border-radius: var(--br-smi);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.imgmargin1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-6xs) var(--padding-0) var(--padding-0);
+}
+.sol {
+  position: relative;
+}
+.spanh2d66c8fb74 {
+  padding: var(--padding-12xs) var(--padding-0) var(--padding-0);
+}
+.divcoinTitle1,
+.spanh2d66c8fb74 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.chartItemWrapper {
+  position: relative;
+}
+.spanh2dF2ad7ec5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divcoinTop1,
+.divincrease1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divincrease1 {
+  border-radius: var(--br-11xs);
+  background-color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-burnt-sienna-10
+  );
+  justify-content: center;
+  padding: 2.75px var(--padding-10xs) 2.25px var(--padding-9xs);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-sunglo
+  );
+}
+.divcoinTop1 {
+  width: 113px;
+  justify-content: space-between;
+  padding: var(--padding-0) 0.000003814697265625px var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: var(--gap-0);
+  row-gap: 20px;
+}
+.divcoinTopmargin1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-xs);
+}
+.divCointopmargin {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.divcoinPrice1 {
+  font-size: var(--font-size-xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-cod-gray
+  );
+}
+.divcoinContent1,
+.divcoinPrice1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svgIcon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.svg1,
+.svgFill1 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+}
+.svgFill1 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-11xl);
+}
+.svg1 {
+  width: 200px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divitemWrapper1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) var(--padding-9xs);
+}
+.divchartItem1,
+.divchartItemmargin1,
+.divitemWrapper1,
+.link1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link1 {
+  flex: 1;
+  flex-direction: row;
+}
+.divchartItem1,
+.divchartItemmargin1 {
+  flex-direction: column;
+}
+.divchartItem1 {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  border: 1px solid
+    var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mercury
+    );
+  padding: var(--padding-mid) var(--padding-lg) var(--padding-mid)
+    var(--padding-base);
+}
+.divchartItemmargin1 {
+  width: 262px;
+  flex-shrink: 0;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.xrpXrppngIcon {
+  width: 26px;
+  height: 26px;
+  position: relative;
+  border-radius: var(--br-smi);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.imgmargin2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-6xs) var(--padding-0) var(--padding-0);
+}
+.xrp {
+  position: relative;
+}
+.spanh2d64ba46e9 {
+  padding: var(--padding-12xs) var(--padding-0) var(--padding-0);
+}
+.divcoinTitle2,
+.spanh2d64ba46e9 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sVG {
+  position: relative;
+}
+.spanh2d47bd3297 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divcoinTop2,
+.divincrease2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divincrease2 {
+  border-radius: var(--br-11xs);
+  background-color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-niagara-6
+  );
+  justify-content: center;
+  padding: 2.75px var(--padding-10xs) 2.25px var(--padding-9xs);
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-shamrock
+  );
+}
+.divcoinTop2 {
+  width: 114px;
+  justify-content: space-between;
+  padding: var(--padding-0) 0.00000762939453125px var(--padding-0)
+    var(--padding-0);
+  box-sizing: border-box;
+  gap: var(--gap-0);
+  row-gap: 20px;
+}
+.divcoinTopmargin2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-xs);
+}
+.divContainerMargin {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.divcoinPrice2 {
+  font-size: var(--font-size-xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-cod-gray
+  );
+}
+.divcoinContent2,
+.divcoinPrice2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svgIcon2 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.svg2,
+.svgFill2 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+}
+.svgFill2 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-11xl);
+}
+.svg2 {
+  width: 200px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divitemWrapper2 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) var(--padding-9xs);
+}
+.divchartItem2,
+.divchartItemmargin2,
+.divitemWrapper2,
+.link2 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link2 {
+  flex: 1;
+  flex-direction: row;
+}
+.divchartItem2,
+.divchartItemmargin2 {
+  flex-direction: column;
+}
+.divchartItem2 {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  border: 1px solid
+    var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mercury
+    );
+  padding: var(--padding-mid) var(--padding-lg) var(--padding-mid)
+    var(--padding-base);
+}
+.divchartItemmargin2 {
+  width: 262px;
+  flex-shrink: 0;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.cardanoAdajpegIcon {
+  width: 26px;
+  height: 26px;
+  position: relative;
+  border-radius: var(--br-smi);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.imgmargin3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-6xs) var(--padding-0) var(--padding-0);
+}
+.ada {
+  position: relative;
+}
+.spanh2dA0371697 {
+  padding: var(--padding-12xs) var(--padding-0) var(--padding-0);
+}
+.divcoinTitle3,
+.spanh2dA0371697 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.aVA {
+  position: relative;
+}
+.spanh2dF5876622 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divcoinTop3,
+.divincrease3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divincrease3 {
+  border-radius: var(--br-11xs);
+  background-color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-burnt-sienna-10
+  );
+  justify-content: center;
+  padding: 2.75px var(--padding-9xs) 2.25px;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-sunglo
+  );
+}
+.divcoinTop3 {
+  width: 112px;
+  justify-content: space-between;
+  gap: var(--gap-0);
+  row-gap: 20px;
+}
+.divcoinTopmargin3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-xs);
+}
+.coinItemPrice {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.divcoinPrice3 {
+  font-size: var(--font-size-xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-cod-gray
+  );
+}
+.divcoinContent3,
+.divcoinPrice3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svgIcon3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.svg3,
+.svgFill3 {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+}
+.svgFill3 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-11xl);
+}
+.svg3 {
+  width: 200px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divitemWrapper3 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) var(--padding-9xs);
+}
+.divchartItem3,
+.divchartItemmargin3,
+.divitemWrapper3,
+.link3 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link3 {
+  flex: 1;
+  flex-direction: row;
+}
+.divchartItem3,
+.divchartItemmargin3 {
+  flex-direction: column;
+}
+.divchartItem3 {
+  flex: 1;
+  border-radius: var(--br-3xs);
+  border: 1px solid
+    var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mercury
+    );
+  padding: var(--padding-mid) var(--padding-lg) var(--padding-mid)
+    var(--padding-base);
+}
+.divchartItemmargin3 {
+  width: 262px;
+  flex-shrink: 0;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.avalancheAvaxpngIcon {
+  width: 26px;
+  height: 26px;
+  position: relative;
+  border-radius: var(--br-smi);
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.imgmargin4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-6xs) var(--padding-0) var(--padding-0);
+}
+.avax {
+  position: relative;
+}
+.spanh2d59f57d28 {
+  padding: var(--padding-12xs) var(--padding-0) var(--padding-0);
+}
+.divcoinTitle4,
+.spanh2d59f57d28 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div {
+  position: relative;
+}
+.spanh2d908e7f81 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divcoinTop4,
+.divincrease4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divincrease4 {
+  border-radius: var(--br-11xs);
+  background-color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-burnt-sienna-10
+  );
+  justify-content: center;
+  padding: 2.75px var(--padding-9xs) 2.25px;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-sunglo
+  );
+}
+.divcoinTop4 {
+  width: 122px;
+  justify-content: space-between;
+  gap: var(--gap-0);
+  row-gap: 20px;
+}
+.divcoinTopmargin4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-xs);
+}
+.buttonNextSlide {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.divcoinPrice4 {
+  font-size: var(--font-size-xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-cod-gray
+  );
+}
+.divcoinContent4,
+.divcoinPrice4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svgFill4,
+.svgIcon4 {
+  align-self: stretch;
+  flex: 1;
+  overflow: hidden;
+}
+.svgIcon4 {
+  position: relative;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+.svgFill4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-11xl);
+}
+.divitemWrapper4,
+.svg4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.svg4 {
+  width: 200px;
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+}
+.divitemWrapper4 {
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-0) var(--padding-9xs);
+}
+.divchartItem4,
+.divitemWrapper4,
+.link4 {
+  align-self: stretch;
+  flex: 1;
+}
+.link4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divchartItem4 {
+  border-radius: var(--br-3xs);
+  border: 1px solid
+    var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mercury
+    );
+  flex-direction: column;
+  padding: var(--padding-mid) var(--padding-lg) var(--padding-mid)
+    var(--padding-base);
+}
+.divchartItem4,
+.divchartItemmargin4,
+.divswiperContainer,
+.divswiperWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.divchartItemmargin4 {
+  align-self: stretch;
+  width: 262px;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: var(--padding-0) var(--padding-3xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+}
+.divswiperContainer,
+.divswiperWrapper {
+  max-width: 100%;
+}
+.divswiperWrapper {
+  width: 1300px;
+  flex: 1;
+  overflow-x: auto;
+  flex-direction: row;
+}
+.divswiperContainer {
+  align-self: stretch;
+  overflow: hidden;
+  flex-direction: column;
+}
+.e0d847asvgIcon {
+  width: 34px;
+  height: 34px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.e0d847asvg,
+.e0d847asvgFill {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.e0d847asvg {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttonNextSlide1 {
+  margin: 0 !important;
+  position: absolute;
+  height: 27.5%;
+  top: 36.25%;
+  right: -11.5px;
+  bottom: 36.25%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs) var(--padding-0);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.e0d847asvgIcon1 {
+  width: 34px;
+  height: 34px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  transform: rotate(-180deg);
+}
+.e0d847asvg1,
+.e0d847asvgFill1 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.e0d847asvg1 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.buttonNextSlide2,
+.divlikeCharts {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.buttonNextSlide2 {
+  margin: 0 !important;
+  position: absolute;
+  height: 27.5%;
+  top: 63.75%;
+  right: 1264.5px;
+  bottom: 8.75%;
+  padding: var(--padding-8xs) var(--padding-0);
+  box-sizing: border-box;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  z-index: 1;
+}
+.divlikeCharts {
+  flex: 1;
+  flex-wrap: wrap;
+  position: relative;
+  max-width: 100%;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+}
+.divcoinMayLikeContainer {
+  width: 1300px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-11xl);
+  box-sizing: border-box;
+  gap: 20px 0;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mine-shaft
+  );
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+}
+@media screen and (max-width: 1300px) {
+  .youMayAlso {
+    max-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .youMayAlso {
+    font-size: var(--font-size-lgi);
+    line-height: 29px;
+  }
+  .buttonNextSlide,
+  .coinItemPrice,
+  .divCointopmargin,
+  .divContainerMargin,
+  .imgMargin {
+    font-size: var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+    );
+    line-height: 19px;
+  }
+}

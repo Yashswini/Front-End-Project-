@@ -1,0 +1,442 @@
+.getStartedWith,
+.withOurRange {
+  position: relative;
+  display: inline-block;
+}
+.getStartedWith {
+  margin: 0;
+  width: 268px;
+  font-size: inherit;
+  line-height: 40px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.withOurRange {
+  width: 327px;
+  height: 68px;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  line-height: 24px;
+  font-weight: 500;
+  color: #f2f2f2;
+  flex-shrink: 0;
+}
+.nodeParentChart {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-lgi);
+  gap: 14px 0;
+  flex-shrink: 0;
+}
+.containerHeightVariable {
+  width: 178.7px;
+  height: 166.2px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.getStartedFor {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  line-height: 28px;
+  font-weight: 600;
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+  color: var(--gray-1);
+  text-align: left;
+}
+.iconlylightarrowRight {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.textNodeCoinTitle {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs) var(--padding-6xl) var(--padding-3xs)
+    var(--padding-5xl);
+  background-color: var(--gray-white);
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 5px;
+  white-space: nowrap;
+}
+.textNodeCoinTitle:hover {
+  background-color: var(--color-gainsboro-100);
+}
+.chartItemContainer,
+.coinContent {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.coinContent {
+  flex: 1;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-blue);
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 31px var(--padding-31xl) var(--padding-30xl) var(--padding-30xl);
+  box-sizing: border-box;
+  gap: 20px 0;
+}
+.chartItemContainer {
+  align-self: stretch;
+  border-radius: 16px;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: center;
+}
+.trendingCoins24h {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 28.8px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.viewMore {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+  display: none;
+  width: 100%;
+  height: 100%;
+}
+.viewMoreWrapper {
+  height: 19px;
+  width: 76px;
+  position: relative;
+  display: none;
+  text-align: right;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  color: var(--primary-blue);
+}
+.buttonProceedToNext {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 57px;
+}
+.component50Icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.ethereumeth {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 6px;
+}
+.divcointopmarginChild {
+  height: 8px;
+  width: 11px;
+  position: relative;
+}
+.divcointitle {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  font-weight: 500;
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+}
+.divchartitem,
+.divcointopmargin {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.divcointopmargin {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs);
+  background-color: var(--color-mintcream);
+  height: 28px;
+  width: 84px;
+  border-radius: var(--br-9xs);
+  justify-content: center;
+  box-sizing: border-box;
+  gap: 0 8px;
+}
+.divcointopmargin:hover,
+.vectorGroup:hover,
+.vectorParent:hover {
+  background-color: var(--color-gainsboro-300);
+}
+.divchartitem {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.component50Icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  object-fit: cover;
+  min-height: 24px;
+}
+.bitcoinBtc {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.component50Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 6px;
+}
+.frameChild {
+  height: 8px;
+  width: 11px;
+  position: relative;
+}
+.div {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  font-weight: 500;
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+}
+.divchartitem1,
+.vectorParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.vectorParent {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs);
+  background-color: var(--color-mintcream);
+  height: 28px;
+  border-radius: var(--br-9xs);
+  justify-content: center;
+  box-sizing: border-box;
+  gap: 0 8px;
+}
+.divchartitem1 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.component50Icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  object-fit: cover;
+  min-height: 24px;
+}
+.polygonMatic {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.component50Group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 6px;
+}
+.frameItem {
+  height: 8px;
+  width: 11px;
+  position: relative;
+}
+.div1 {
+  position: relative;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+  font-weight: 500;
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+  color: var(--color-mediumseagreen-100);
+  text-align: center;
+}
+.divchartitem2,
+.vectorGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.vectorGroup {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-5xs);
+  background-color: var(--color-mintcream);
+  height: 28px;
+  border-radius: var(--br-9xs);
+  justify-content: center;
+  box-sizing: border-box;
+  gap: 0 8px;
+}
+.divchartitem2 {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.realisedProfitloss,
+.rectangleContainerHeader {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.rectangleContainerHeader {
+  align-items: flex-start;
+  gap: 20px 0;
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+  );
+}
+.realisedProfitloss {
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-white);
+  align-items: center;
+  padding: var(--padding-5xl);
+  gap: 24px 0;
+  text-align: left;
+  color: var(--gray-1);
+}
+.chartItemContainerParent,
+.spanhdcffInner {
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.chartItemContainerParent {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px 0;
+}
+.spanhdcffInner {
+  width: 427px;
+  padding: var(--padding-15xl) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  min-width: 427px;
+}
+.bitcoin,
+.linkWrapper,
+.spanhdcff,
+.spanhdcffInner {
+  display: flex;
+  justify-content: flex-start;
+}
+.spanhdcff {
+  width: 1368px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+  gap: 0 20px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--gray-white);
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+}
+.bitcoin,
+.linkWrapper {
+  flex-direction: column;
+}
+.linkWrapper {
+  align-self: stretch;
+  align-items: center;
+  gap: 18px 0;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.bitcoin {
+  width: 100%;
+  position: relative;
+  background-color: #eff2f5;
+  overflow: hidden;
+  align-items: flex-start;
+  gap: 78px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .spanhdcffInner {
+    flex: 1;
+  }
+  .spanhdcff {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 800px) {
+  .coinContent {
+    padding-top: var(--padding-xl);
+    padding-bottom: 32px;
+    box-sizing: border-box;
+  }
+  .spanhdcffInner {
+    min-width: 100%;
+  }
+  .bitcoin {
+    gap: 78px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .getStartedWith {
+    font-size: var(--font-size-lgi);
+    line-height: 32px;
+  }
+  .coinContent {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .trendingCoins24h {
+    font-size: var(--font-size-lgi);
+    line-height: 23px;
+  }
+  .divchartitem,
+  .divchartitem1,
+  .divchartitem2 {
+    flex-wrap: wrap;
+  }
+  .bitcoin {
+    gap: 78px 0;
+  }
+}

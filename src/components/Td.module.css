@@ -1,0 +1,48 @@
+.span {
+  color: var(--absolute-red);
+}
+.edasvgTxt {
+  width: 100%;
+}
+.edasvg,
+.nov102021 {
+  position: relative;
+  line-height: 20px;
+}
+.edasvg {
+  width: 141px;
+  height: 11px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.nov102021 {
+  font-size: var(--font-size-xs-2);
+}
+.edasvgParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 4px 0;
+}
+.td {
+  height: 61px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+  padding: var(--padding-mini-5) var(--padding-xs) var(--padding-mini-5)
+    var(--padding-33xl);
+  box-sizing: border-box;
+  z-index: 1;
+  text-align: right;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  color: var(--color-gray-100);
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+}

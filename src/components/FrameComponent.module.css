@@ -1,0 +1,46 @@
+.frameChild {
+  height: 562.2px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--gray-white);
+  display: none;
+  max-width: 100%;
+}
+.rectangleParent,
+.youMayAlsoLike {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.youMayAlsoLike {
+  flex: 1;
+  overflow-x: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-11xs);
+  z-index: 1;
+}
+.rectangleParent {
+  height: 628px;
+  background-color: var(--gray-white);
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-49xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-mine-shaft
+  );
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+}
+@media screen and (max-width: 800px) {
+  .rectangleParent {
+    padding: var(--padding-25xl) var(--padding-15xl);
+    box-sizing: border-box;
+  }
+}

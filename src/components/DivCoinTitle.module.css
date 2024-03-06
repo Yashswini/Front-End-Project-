@@ -1,0 +1,84 @@
+.sandeepIcon {
+  width: 96.4px;
+  flex: 1;
+  position: relative;
+  border-radius: 6.68px;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.designationHere,
+.johnSmith {
+  position: relative;
+  font-weight: 600;
+}
+.designationHere {
+  font-size: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12-size
+  );
+  font-weight: 500;
+  color: var(--day-gray-06);
+}
+.divIncrease,
+.imgMargin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.divIncrease {
+  padding: var(--padding-0) var(--padding-mini);
+  gap: 4.12px 0;
+}
+.imgMargin {
+  height: 155px;
+  gap: 13.19px 0;
+}
+.loremIpsumDolor {
+  width: 646px;
+  position: relative;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  line-height: 160%;
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.divCoinTitle,
+.divCointop {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.divCointop {
+  flex: 1;
+  border-radius: 7.46px;
+  background-color: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-solitude
+  );
+  align-items: center;
+  padding: 11.194828987121582px var(--padding-lgi) 11.194828987121582px
+    11.194828987121582px;
+  gap: 0 16px;
+}
+.divCoinTitle {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-4xs) var(--padding-0) var(--padding-0);
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--gray-1);
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+}
+@media screen and (max-width: 1125px) {
+  .divCointop {
+    flex-wrap: wrap;
+  }
+}

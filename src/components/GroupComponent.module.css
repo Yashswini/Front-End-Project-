@@ -1,0 +1,108 @@
+.frameChild {
+  height: 151px;
+  width: 388px;
+  position: relative;
+  border-radius: 6.65px;
+  background: linear-gradient(135deg, #79f1a4, #0e5cad);
+  display: none;
+  max-width: 100%;
+}
+.divincreaseIcon {
+  height: 128px;
+  width: 128px;
+  position: relative;
+  border-radius: var(--br-5xs);
+  object-fit: cover;
+  z-index: 1;
+}
+.calculateYourProfits {
+  width: 195px;
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  z-index: 1;
+}
+.checkNow {
+  position: relative;
+  font-size: var(
+    --www-indstocks-com-stocks-zomato-ltd-share-price-1440x810-default-sf-pro-text-regular-14-size
+  );
+  line-height: 28px;
+  font-weight: 600;
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+  color: var(--gray-1);
+  text-align: left;
+}
+.iconlylightarrowRight {
+  height: 20px;
+  width: 20px;
+  position: relative;
+}
+.divitemwrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-11xs) var(--padding-sm);
+  background-color: var(--gray-white);
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 3px;
+  white-space: nowrap;
+  z-index: 1;
+}
+.divitemwrapper:hover {
+  background-color: var(--color-gainsboro-100);
+}
+.coinTitleDiv,
+.coinTitleDivWrapper,
+.rectangleParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.coinTitleDiv {
+  align-self: stretch;
+  gap: 16px 0;
+}
+.coinTitleDivWrapper,
+.rectangleParent {
+  flex: 1;
+  padding: var(--padding-5xs) var(--padding-0) var(--padding-0);
+  box-sizing: border-box;
+  min-width: 127px;
+}
+.rectangleParent {
+  border-radius: 6.65px;
+  background: linear-gradient(135deg, #79f1a4, #0e5cad);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-6xl) var(--padding-2xs)
+    var(--padding-xs);
+  gap: var(--gap-9xl);
+  min-width: 252px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--gray-white);
+  font-family: var(
+    --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-12
+  );
+}
+@media screen and (max-width: 450px) {
+  .divincreaseIcon {
+    flex: 1;
+  }
+  .calculateYourProfits {
+    font-size: var(
+      --tokeninsight-com-en-coins-ethereum-tokenomics-1440x810-default-inter-regular-16-size
+    );
+    line-height: 22px;
+  }
+  .rectangleParent {
+    flex-wrap: wrap;
+  }
+}
